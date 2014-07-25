@@ -3,7 +3,12 @@ public class Test {
 		System.out.println(new Test().test(0));
 		int[] b = { 4, 5, 6, 7, 8, 10, 12 };
 	//	System.out.println(findPivot(a));
+		
+		//
 		//System.out.println(binarySearch2(b, 12));
+		
+		
+		
 		System.out.println(BSearch(b, 10,0,b.length-1));
 	}
 
